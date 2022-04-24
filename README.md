@@ -1,4 +1,7 @@
-#
+# 20220421 本週作業
+
+1. [CodeWars: Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) (find-the-odd-int.cpp)
+2. 任選至少一題 CodeWars 題目
 
 ---
 
